@@ -11,3 +11,5 @@
     <li>List ------> ol ul li
     <li>İmage ---> img
 
+<h2>View</h2>
+<img src=./image/exercise1.png>
